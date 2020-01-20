@@ -1,12 +1,18 @@
 ---
-title: Test
+title: Home
 has_children: true
-nav_order: 2
+nav_order: 1
 ---
 
-# Another page
+# Welcome to test site
 
-Test this
+This is a test front page
 
+## About the Site
+so here it is words about website
 
-blah
+## About the Project
+words about the project
+
+### Links
+links to more words
